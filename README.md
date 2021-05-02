@@ -1,1 +1,1 @@
-# Problem-solvez-lightoj
+# Problem-solve-lightoj
